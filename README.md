@@ -49,3 +49,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+ 
+ <p><img align="centar" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANONYMOUS-U7P4L&show_icons=true&locale=en&layout=compact&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
+ 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-U7P4L&show_icons=true&locale=en&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANONYMOUS-U7P4L&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
+
+
+
+ 
