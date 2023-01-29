@@ -1,6 +1,9 @@
-<p align="center"><img src="https://img.shields.io/badge/I AM %20BANGLADESHI - PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<h3 align="center">
 
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ANONYMOUS+U7P4L;I'M+19+YEAR'S+OLD;I'M+FROM+BANGLADESH;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<p align="center"><img src="https://img.shields.io/badge/I AM %20BANGLADESHI - PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
 
@@ -25,6 +28,10 @@
 <h3 align="center">
 
 ![ANONYMOUS-U7P4L](https://github-profile-trophy.vercel.app/?username=ANONYMOUS-U7P4L&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- HacktoberFest Badges -->
+
+[![An image of @ANONYMOUS-U7P4L's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@ANONYMOUS-U7P4L)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -75,6 +82,7 @@ Rust         45 mins         ▓░░░░░░░░░░░░░░░░
 
 ![ANONYMOUS-U7P4L](https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-U7P4L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![ANONYMOUS-U7P4L](https://github-readme-stats.vercel.app/api?username=ANONYMOUS-U7P4L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<a href="http://www.github.com/ANONYMOUS-U7P4L"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANONYMOUS-U7P4L&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ![ANONYMOUS-U7P4L](https://github-readme-streak-stats.herokuapp.com/?user=ANONYMOUS-U7P4L&theme=dark&hide_border=false)<br/>
 
 ## 💰 YOU CAN HELP ME BY DONATING
@@ -84,3 +92,15 @@ Rust         45 mins         ▓░░░░░░░░░░░░░░░░
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<!-- Contribution Snake -->
+![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Footer -->
+
+<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
