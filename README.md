@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center"><img src="https://img.shields.io/badge/I AM %20BANGLADESHI - PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-<!--
-**ANONYMOUS-U7P4L/ANONYMOUS-U7P4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+<h3 align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">  WELCOME TO MY PROFILE   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
+
+</h3>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<h3 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+ANONYMOUS+U7P4L+M4X;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND;THANK+YOU+EVERYONE+LvuAll)](https://git.io/typing-svg)
+
+</p>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
