@@ -25,6 +25,8 @@
 <h3 align="center">
 <a href="https://github.com/ANONYMOUS-U7P4L"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ANONYMOUS-U7P4L&theme=monokai"></a>
  
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
  <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 <h3 align="center">
  
@@ -59,7 +61,7 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
 <img src ="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" "440" title="WEB" alt="LEARN MORE">
 
-<p><img align="centar" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANONYMOUS-U7P4L&show_icons=true&locale=en&layout=compact&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-U7P4L)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-U7P4L&show_icons=true&locale=en&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
 
