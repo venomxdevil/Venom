@@ -73,9 +73,9 @@ Rust         45 mins         ▓░░░░░░░░░░░░░░░░
 # 📊 GitHub Stats:
 <h3 align="center">
 
+![ANONYMOUS-U7P4L](https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-U7P4L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![ANONYMOUS-U7P4L](https://github-readme-stats.vercel.app/api?username=ANONYMOUS-U7P4L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![ANONYMOUS-U7P4L](https://github-readme-streak-stats.herokuapp.com/?user=ANONYMOUS-U7P4L&theme=dark&hide_border=false)<br/>
-![ANONYMOUS-U7P4L](https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-U7P4L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💰 YOU CAN HELP ME BY DONATING
 <h3 align="center">
