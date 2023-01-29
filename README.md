@@ -55,14 +55,13 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
- <p align="center">
+<p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
 <img src ="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" "440" title="WEB" alt="LEARN MORE">
 
- 
- <p><img align="centar" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANONYMOUS-U7P4L&show_icons=true&locale=en&layout=compact&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
- 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-U7P4L&show_icons=true&locale=en&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
+<p><img align="centar" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANONYMOUS-U7P4L&show_icons=true&locale=en&layout=compact&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-U7P4L&show_icons=true&locale=en&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANONYMOUS-U7P4L&theme=dark" alt="ANONYMOUS-U7P4L" /></p>
  
