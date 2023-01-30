@@ -61,18 +61,10 @@
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/utpal.xr)
 [![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/ANONYMOUS-U7P4L)
 
-📊 **This Week I Spent My Time On:** ⏰🕜
-<!--START_SECTION:waka-->
-```text
-Javascript   13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
-PostgreSQL   5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Solidity     4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Kotlin       1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Rust         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
-<!--END_SECTION:waka-->
-<!--ending-->
- 
+#### 📊This Week I Spent My Time On:⏰🕜
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  
  # 💻 Tech Stack:
 <h3 align="center">
 
