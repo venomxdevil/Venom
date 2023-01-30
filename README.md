@@ -62,7 +62,8 @@
 [![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/ANONYMOUS-U7P4L)
 
 #### 📊This Week I Spent My Time On:⏰🕜
-
+<h3 align="center">
+  
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
   
  # 💻 Tech Stack:
@@ -112,5 +113,6 @@
 
 <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+  
+ 
