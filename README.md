@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies
 <h3 align="center">
 
-![ANONYMOUS-U7P4L](https://github-profile-trophy.vercel.app/?username=ANONYMOUS-U7P4L&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![ANONYMOUS-U7P4L](https://github-profile-trophy.vercel.app/?username=BAD-X&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- HacktoberFest Badges -->
 
