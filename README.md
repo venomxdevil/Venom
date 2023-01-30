@@ -1,3 +1,5 @@
+<img src="https://github.com/ANONYMOUS-U7P4L/ANONYMOUS-U7P4L/blob/main/header_.png">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <h3 align="center">
 
@@ -91,7 +93,10 @@
 # 📊 GitHub Stats:
 <h3 align="center">
 
-![ANONYMOUS-U7P4L](https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-U7P4L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-U7P4L&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=10" alt="GitHub language stats" width="400">
+        </a>
+    </div>
 
   ![ANONYMOUS-U7P4L](https://github-readme-stats.vercel.app/api?username=ANONYMOUS-U7P4L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![ANONYMOUS-U7P4L](https://github-readme-streak-stats.herokuapp.com/?user=ANONYMOUS-U7P4L&theme=dark&hide_border=false)<br/>
@@ -119,5 +124,4 @@
 <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-  
- 
+
