@@ -127,7 +127,7 @@ const ANONYMOUS-U7P4L = {
 
 <a href="http://www.github.com/ANONYMOUS-U7P4L"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANONYMOUS-U7P4L&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="200" />  
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
   
   
 ## 💰 YOU CAN HELP ME BY DONATING
