@@ -227,4 +227,6 @@ const ANONYMOUS-U7P4L = {
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 
+<img src="https://metrics.lecoq.io/ANONYMOUS-U7P4L?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+</p>
 
