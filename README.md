@@ -200,6 +200,11 @@ const ANONYMOUS-U7P4L = {
     </div>
 
   ![ANONYMOUS-U7P4L](https://github-readme-stats.vercel.app/api?username=ANONYMOUS-U7P4L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+  
+  <img src="https://metrics.lecoq.io/ANONYMOUS-U7P4L?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+</p>  
+  
 ![ANONYMOUS-U7P4L](https://github-readme-streak-stats.herokuapp.com/?user=ANONYMOUS-U7P4L&theme=dark&hide_border=false)<br/>
 
 <a href="http://www.github.com/ANONYMOUS-U7P4L"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANONYMOUS-U7P4L&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
@@ -226,7 +231,4 @@ const ANONYMOUS-U7P4L = {
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
-
-<img src="https://metrics.lecoq.io/ANONYMOUS-U7P4L?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
-</p>
 
