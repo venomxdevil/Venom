@@ -24,8 +24,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+ANONYMOUS+U7P4L+M4X;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND;THANK+YOU+EVERYONE+LvuAll)](https://git.io/typing-svg)
 
 </p>
-
+  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+  
+<div align="center" width="150">
+  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
+</div>  
 
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=ANONYMOUS-U7P4L&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="ANONYMOUS-U7P4L" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
