@@ -5,6 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ANONYMOUS+U7P4L;I'M+19+YEAR'S+OLD;I'M+FROM+BANGLADESH;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=HELLO+WORLD%2C+I'AM+ANONYMOUS+U7P4L+HARE+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;RESPECT+ANONYMOUS+U7P4L+🥀;TODAY+I+WILL+TELL+YOU+😇;PLEASE+FOLLOW+MY+GITHUB+🙏;Thanks+MY+ALL+FRIEND+🤙+🥰;LOVE+FROM+BANGLADESH)](https://git.io/typing-svg)
+
+
+
 <p align="center"><img src="https://img.shields.io/badge/I AM %20BANGLADESHI - PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
