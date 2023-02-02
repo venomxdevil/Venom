@@ -1,4 +1,4 @@
-<img src="https://github.com/ANONYMOUS-U7P4L/ANONYMOUS-U7P4L/blob/main/header_.png">
+<p align="center"><img src="https://github.com/ANONYMOUS-U7P4L/ANONYMOUS-U7P4L/blob/main/header_.png">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <h3 align="center">
