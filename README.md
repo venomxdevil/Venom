@@ -28,13 +28,13 @@
 </p>
   
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-
   
 <div align="center" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
 </div>  
 
-<br><p align='center'><img src="https://komarev.com/ghpvc/?username=ANONYMOUS-U7P4L&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="ANONYMOUS-U7P4L" />
+![GitHub followers](https://img.shields.io/github/followers/ANONYMOUS-U7P4L?label=Follow&style=social) &nbsp;
+<p align='center'><img src="https://komarev.com/ghpvc/?username=ANONYMOUS-U7P4L&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="ANONYMOUS-U7P4L" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=ANONYMOUS-U7P4L">
 
