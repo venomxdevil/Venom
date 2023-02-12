@@ -101,6 +101,11 @@ const ANONYMOUS U7P4L = {
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/utpal.xr)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/utpal.xr)
 [![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/ANONYMOUS-U7P4L)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/UtpalMallickOngkon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UtpalOngkon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UTPAL-ME) 
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=UtpalOngkon)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 #### 📊This Week I Spent My Time On:⏰🕜
 <h3 align="center">
