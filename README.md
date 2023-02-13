@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ANONYMOUS-U7P4L/ANONYMOUS-U7P4L/blob/main/header_.png">
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/header_.png">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <h3 align="center">
@@ -33,19 +33,19 @@
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
 </div>  
 
-![GitHub followers](https://img.shields.io/github/followers/ANONYMOUS-U7P4L?label=Follow&style=social) &nbsp;
-<p align='center'><img src="https://komarev.com/ghpvc/?username=ANONYMOUS-U7P4L&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="ANONYMOUS-U7P4L" />
+![GitHub followers](https://img.shields.io/github/followers/U7P4L-IN?label=Follow&style=social) &nbsp;
+<p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<p align='center'><a href="https://api.daily.dev/get?r=ANONYMOUS-U7P4L">
+<p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
 
 
-<p align="center"><img src="https://github.com/ANONYMOUS-U7P4L/ANONYMOUS-U7P4L/blob/main/giphy.webp">
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/giphy.webp">
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ANONYMOUS U7P4L = {
+const U7P4L-IN = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
@@ -81,11 +81,11 @@ const ANONYMOUS U7P4L = {
 ## 🏆 GitHub Trophies
 <h3 align="center">
 
-![ANONYMOUS-U7P4L](https://github-profile-trophy.vercel.app/?username=ANONYMOUS-U7P4L&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![U7P4L-IN](https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- HacktoberFest Badges -->
 
-[![An image of @ANONYMOUS-U7P4L's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@ANONYMOUS-U7P4L)
+[![An image of @U7P4L-IN's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@U7P4L-IN)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -94,7 +94,7 @@ const ANONYMOUS U7P4L = {
 </div>
 
 
-<img src="https://github.com/ANONYMOUS-U7P4L/ANONYMOUS-U7P4L/blob/main/275750433_726130698764464_6531454219054912316_n.gif"/>
+<img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/275750433_726130698764464_6531454219054912316_n.gif"/>
 
  <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 <h3 align="center">
@@ -102,7 +102,7 @@ const ANONYMOUS U7P4L = {
 [![Instagram](https://img.shields.io/badge/IG-%40utpal_official-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/utpal_official)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/utpal.xr)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/utpal.xr)
-[![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/ANONYMOUS-U7P4L)
+[![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/U7P4L-IN)
 [![Github](https://img.shields.io/badge/TELEGRAM-Utpalme-orange?style=for-the-badge&logo=telegram)](https://t.me/Utpalme)
 [![Github](https://img.shields.io/badge/Twitter-UtpalOngkon-blue?style=for-the-badge&logo=twitter)](https://twitter.com/UtpalOngkon)
 
@@ -259,9 +259,9 @@ const ANONYMOUS U7P4L = {
 
 
 
-![UTPAL](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
+![U7P4L-IN](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
 
-<img src="https://github.com/ANONYMOUS-U7P4L/ANONYMOUS-U7P4L/blob/main/hacker.gif"/>
+<img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/hacker.gif"/>
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
@@ -271,20 +271,20 @@ const ANONYMOUS U7P4L = {
 <h3 align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-U7P4L&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=10" alt="GitHub language stats" width="400">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
         </a>
     </div>
 
-  ![ANONYMOUS-U7P4L](https://github-readme-stats.vercel.app/api?username=ANONYMOUS-U7P4L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![U7P4L-IN](https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/ANONYMOUS-U7P4L" width="600" /></a>
+<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/U7P4L-IN" width="600" /></a>
   
-  <img src="https://metrics.lecoq.io/ANONYMOUS-U7P4L?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+  <img src="https://metrics.lecoq.io/U7P4L-IN?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 </p>  
   
-![ANONYMOUS-U7P4L](https://github-readme-streak-stats.herokuapp.com/?user=ANONYMOUS-U7P4L&theme=dark&hide_border=false)<br/>
+![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
 
-<a href="http://www.github.com/ANONYMOUS-U7P4L"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ANONYMOUS-U7P4L&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/U7P4L-IN"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=U7P4L-IN&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
   
@@ -311,14 +311,14 @@ const ANONYMOUS U7P4L = {
 ### 📊 TOP REPOSITORY:
  <h3 align="center">
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=Back-Up&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=Back-Up&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
    
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=Theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=Theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
   
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=Banner.PHP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)  
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=Banner.PHP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)  
   
- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=SET-UP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) 
+ ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=SET-UP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) 
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=INFECT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=INFECT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
  
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=SMS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)  
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=SMS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)  
