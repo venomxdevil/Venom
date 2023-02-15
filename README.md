@@ -33,7 +33,7 @@
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
 </div>  
 
-
+![GitHub followers](https://img.shields.io/github/followers/U7P4L-IN?label=Follow&style=social) &nbsp;
 <p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon2&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon2" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
@@ -99,11 +99,12 @@ const U7P4L = {
  <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 <h3 align="center">
  
-[![Instagram](https://img.shields.io/badge/IG-%40utpal_official-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/utpal_official)
+
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/utpal.xr)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/utpal.xr)
-[![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/U7P4L-IN)
 [![Github](https://img.shields.io/badge/TELEGRAM-Utpalme-orange?style=for-the-badge&logo=telegram)](https://t.me/Utpalme)
+[![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/U7P4L-IN)
+[![Instagram](https://img.shields.io/badge/IG-%40utpal_official-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/utpal_official)
 [![Github](https://img.shields.io/badge/Twitter-UtpalOngkon-blue?style=for-the-badge&logo=twitter)](https://twitter.com/UtpalOngkon)
 
 ## 🐦 Latest Tweet
