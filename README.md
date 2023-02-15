@@ -104,7 +104,7 @@ const U7P4L = {
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/utpal.xr)
 [![Github](https://img.shields.io/badge/TELEGRAM-Utpalme-orange?style=for-the-badge&logo=telegram)](https://t.me/Utpalme)
 [![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/U7P4L-IN)
-[![Instagram](https://img.shields.io/badge/IG-%40utpal_official-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/utpal_official)
+[![Instagram](https://img.shields.io/badge/IG-%40utpal_official-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/utpal_officials)
 [![Github](https://img.shields.io/badge/Twitter-UtpalOngkon-blue?style=for-the-badge&logo=twitter)](https://twitter.com/UtpalOngkon)
 
 ## 🐦 Latest Tweet
