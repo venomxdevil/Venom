@@ -10,13 +10,9 @@
 
 <p align="center"><img src="https://img.shields.io/badge/I AM %20BANGLADESHI - PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=HELLO+WORLD%2C+I'AM+ANONYMOUS+U7P4L+HARE+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;RESPECT+ANONYMOUS+U7P4L+🥀;TODAY+I+WILL+TELL+YOU+😇;PLEASE+FOLLOW+MY+GITHUB+🙏;Thanks+MY+ALL+FRIEND+🤙+🥰;LOVE+FROM+BANGLADESH)](https://git.io/typing-svg) 
-  
-
 <h3 align="center">
 
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">  WELCOME TO MY PROFILE   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
+####  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">  WELCOME TO MY PROFILE   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
 
 </h3>
 
