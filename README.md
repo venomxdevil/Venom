@@ -1,3 +1,7 @@
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/IMG_20230217_191726.jpg">
+
+
+
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/header_.png">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
