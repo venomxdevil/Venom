@@ -1,7 +1,5 @@
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/NAME%20BANNER%2Cjpg.jpg">
 
-
-
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/header_.png">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
@@ -99,13 +97,13 @@ const U7P4L = {
  <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 <h3 align="center">
  
+<a href="https://t.me/utpalme"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mallickongkonutpal@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://youtube.com/UtpalMallickOngkon"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://twitter.com/UtpalOngkon"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://facebook.com/utpal.xr"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://instagram.com/utpal_officials"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/utpal.xr)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/utpal.xr)
-[![Github](https://img.shields.io/badge/TELEGRAM-Utpalme-orange?style=for-the-badge&logo=telegram)](https://t.me/Utpalme)
-[![Github](https://img.shields.io/badge/Github-ANONYMOUS-U7P4Lgreen?style=for-the-badge&logo=github)](https://github.com/U7P4L-IN)
-[![Instagram](https://img.shields.io/badge/IG-%40utpal_official-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/utpal_officials)
-[![Github](https://img.shields.io/badge/Twitter-UtpalOngkon-blue?style=for-the-badge&logo=twitter)](https://twitter.com/UtpalOngkon)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=UtpalOngkon)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
