@@ -31,7 +31,7 @@
 </div>  
 
 ![GitHub followers](https://img.shields.io/github/followers/U7P4L-IN?label=Follow&style=social) &nbsp;
-<p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon2&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon2" />
+<p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
 
