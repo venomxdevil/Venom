@@ -30,7 +30,10 @@
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
 </div>  
 
-![GitHub followers](https://img.shields.io/github/followers/U7P4L-IN?label=Follow&style=social) &nbsp;
+<p align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co?username=U7P4L-IN&repo=U7P4L-IN&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
+  <a href="https://github.com/U7P4L-IN"><img src="https://img.shields.io/github/followers/U7P4L-IN?label=followers&style=social"/></a>
+
 <p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
