@@ -28,6 +28,12 @@
 </div>  
 
 <p align="center">
+<a href="https://U7P4L-IN.github.io/" target="_blank">
+   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+</a>
+
+<p align="center">
+
  <img src="https://visitor-badge.feriirawann.repl.co?username=U7P4L-IN&repo=U7P4L-IN&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
  <a href="https://github.com/U7P4L-IN"><img src="https://img.shields.io/github/followers/U7P4L-IN?label=followers&style=social"/></a>
 <img src="https://img.shields.io/github/stars/U7P4L-IN?label=Stars&style=social" alt="GitHub Badge"> 
