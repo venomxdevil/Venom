@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/IMG_20230226_100602.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Screenshot_2023-03-03-08-43-28-787_com.termux%20(2).jpg">
 
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/header_.png">
 
