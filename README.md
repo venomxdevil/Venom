@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Name-Banner.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/IMG_20230404_153541.jpg">
 
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/header_.png">
 
