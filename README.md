@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/header_.png">
+<p align="center"><img src="./assets/images/header_.png">
 
-<p align="center"><img src="https://github.com/U7P4L-IN/IN/blob/main/Screenshot_2023-04-25-10-29-49-307_com.termux.jpg">
+<p align="center"><img src="./assets/images/Banner.jpg">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <h3 align="center">
@@ -43,7 +43,7 @@
 <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
 
 
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/giphy.webp">
+<p align="center"><img src="./assets/images/giphy.webp">
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -56,7 +56,7 @@ const U7P4L = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
-                        speaker: "Latinity",
+                        speaker: "English/Bangla",
                         mentor: "EducaTRANSforma"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on shell and python"
@@ -98,9 +98,9 @@ const U7P4L = {
 </div>
 
 
-<img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/275750433_726130698764464_6531454219054912316_n.gif"/>
+<img src="./assets/images/javascript.gif"/>
 
-<img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/ezgif.com-video-to-gif.gif"/>
+<img src="./assets/images/ezgif.com-video-to-gif.gif"/>
 
 
  <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
@@ -269,7 +269,7 @@ const U7P4L = {
 
 ![U7P4L-IN](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
 
-<img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/hacker.gif"/>
+<img src="./assets/images/hacker.gif"/>
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
@@ -303,7 +303,7 @@ const U7P4L = {
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/not.com) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/not.com) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/not.com) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/not.com) 
 
 
-<img lebar="55%" align="kanan" alt="Github" src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/git-header.svg" />
+<img lebar="55%" align="kanan" alt="Github" src="./assets/images/git-header.svg" />
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -318,3 +318,5 @@ const U7P4L = {
 <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+
