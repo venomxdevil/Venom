@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./assets/images/Banner.jpg">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+ <img src="./assets/images/pink_border1.svg">
 <h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLDS,+MY+NAME+IS+ANONYMOUS+U7P4L;I'M+19+YEAR'S+OLD;I'M+FROM+BANGLADESH;I'M+GRADUATED+SYSTEM+DEVELOPMENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
@@ -273,7 +273,7 @@ const U7P4L = {
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+<p align="center"><img src="./assets/images/keybord.gif" alt="Bt">
 
 ## 📊 GitHub Stats:
 <h3 align="center">
@@ -294,7 +294,7 @@ const U7P4L = {
 
 <a href="http://www.github.com/U7P4L-IN"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=U7P4L-IN&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
+<img align="right" alt="GIF" src="./assets/images/code.gif?raw=true" width="500" height="300" />  
   
   
 #### 💰YOU CAN HELP ME BY DONATING
@@ -311,12 +311,10 @@ const U7P4L = {
 
 
 <!-- Contribution Snake -->
-![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
+<img src="./assets/images/github-contribution-grid-snake.svg">)
 
 <!-- Footer -->
 
-<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
+<img src="./assets/images/Footer.jpg">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-
-
+ <img src="./assets/images/pink_border2.svg">
