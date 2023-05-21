@@ -311,7 +311,7 @@ const U7P4L = {
 
 
 <!-- Contribution Snake -->
-<img src="./assets/images/github-contribution-grid-snake.svg">)
+<img src="./assets/images/github-contribution-grid-snake.svg">
 
 <!-- Footer -->
 
