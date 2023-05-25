@@ -45,7 +45,6 @@
 
 <p align="center"><img src="./assets/images/giphy.webp">
 
-<l align="center"><img src="./assets/images/Linux.png">
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -65,6 +64,7 @@ const U7P4L = {
 }
 ```
 
+<l align="center"><img src="./assets/images/Linux.png">
 
 
 </h1>
