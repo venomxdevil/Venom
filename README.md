@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/images/header_.png">
 
-<p align="center"><img src="./assets/images/Banner1.jpg">
+<p align="center"><img src="./assets/images/Name_Logo.jpg">
 
  <img src="./assets/images/pink_border1.svg">
 <h3 align="center">
