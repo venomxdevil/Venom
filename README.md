@@ -17,7 +17,7 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+ANONYMOUS+U7P4L+M4X;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND;THANK+YOU+EVERYONE+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+ANONYMOUS+U7P4L+1N;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND;THANK+YOU+EVERYONE+LvuAll)](https://git.io/typing-svg)
 
 </p>
   
