@@ -1,3 +1,12 @@
+<div align="center">
+<h1>
+    𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> !
+  <a target="_blank">
+      <img src="https://github.com/DeepSociety/DeepSociety/blob/main/hi.gif?raw=true" width="40">
+    </a>
+  </h1>
+  <br/>
+
 <p align="center"><img src="./assets/images/header_.png">
 
 <p align="center"><img src="./assets/images/Name_Logo.jpg">
