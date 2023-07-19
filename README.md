@@ -9,7 +9,7 @@
 
 <p align="center"><img src="./assets/images/header_.png">
 
-<p align="center"><img src="./assets/images/Name_Logo.jpg">
+<p align="center"><img src="./assets/images/U7P4L_1N___.png">
 
  <img src="./assets/images/pink_border1.svg">
 <h3 align="center">
