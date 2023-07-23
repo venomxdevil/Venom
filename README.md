@@ -9,6 +9,8 @@
 
 <p align="center"><img src="./assets/images/header_.png">
 
+<p align="center"><img src="./assets/images/Programme.gif">
+
 <p align="center"><img src="./assets/images/U7P4L_1N___.png">
 
  <img src="./assets/images/pink_border1.svg">
