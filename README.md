@@ -5,13 +5,9 @@
       <img src="https://github.com/DeepSociety/DeepSociety/blob/main/hi.gif?raw=true" width="40">
     </a>
   </h1>
-  <br/>
+  <br/></div>  
 
 <p align="center"><img src="./assets/images/header_.png">
-
-<p align="center"><img src="./assets/images/Programme.gif">
-
-<p align="center"><img src="./assets/images/U7P4L_1N___.png">
 
  <img src="./assets/images/pink_border1.svg">
 <h3 align="center">
@@ -308,17 +304,7 @@ const U7P4L = {
 
 <a href="http://www.github.com/U7P4L-IN"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=U7P4L-IN&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<img align="right" alt="GIF" src="./assets/images/code.gif?raw=true" width="500" height="300" />  
-  
-  
-#### 💰YOU CAN HELP ME BY DONATING
-<h3 align="center">
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/not.com) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/not.com) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/not.com) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/not.com) 
-
-
-<img lebar="55%" align="kanan" alt="Github" src="./assets/images/git-header.svg" />
-
+<p align="center"><img src="./assets/images/Programme.gif">
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
