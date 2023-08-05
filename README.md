@@ -28,9 +28,9 @@
 </p>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
   
-<div align="center" width="150">
+<p align="center" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
-</div>  
+</p>  
 
 <p align="center">
 <a href="https://U7P4L-IN.github.io/" target="_blank">
