@@ -100,12 +100,6 @@ const U7P4L = {
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
-
-<img src="./assets/images/javascript.gif"/>
-
-<img src="./assets/images/ezgif.com-video-to-gif.gif"/>
-
-
  <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 <h3 align="center">
  
@@ -250,6 +244,8 @@ const U7P4L = {
   </kbd>
 </p>
 
+<p align="center"><img src="assets/images/ezgif.com-video-to-gif.gif" alt="Bt">
+    
 <p align="center"><img src="./assets/images/keybord.gif" alt="Bt">
 
 ## 📊 GitHub Stats:
@@ -262,14 +258,10 @@ const U7P4L = {
 
   ![U7P4L-IN](https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/U7P4L-IN" width="600" /></a>
-  
   <img src="https://metrics.lecoq.io/U7P4L-IN?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 </p>  
   
 ![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
-
-<a href="http://www.github.com/U7P4L-IN"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=U7P4L-IN&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <p align="center"><img src="./assets/images/Programme.gif">
   
