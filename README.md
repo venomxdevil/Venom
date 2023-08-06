@@ -47,11 +47,6 @@
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
 
-
-<p align="center"><img src="./assets/images/giphy.webp">
-
-
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -192,24 +187,6 @@ const U7P4L = {
 <h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
 <h3 align="center">
  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-
-
-</p>
-
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
@@ -272,14 +249,6 @@ const U7P4L = {
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
-
-
-
-![U7P4L-IN](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
-
-<img src="./assets/images/hacker.gif"/>
-
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
 <p align="center"><img src="./assets/images/keybord.gif" alt="Bt">
 
