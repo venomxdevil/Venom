@@ -249,6 +249,8 @@ const U7P4L = {
 
   <img src="https://metrics.lecoq.io/U7P4L-IN?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 </p>  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
   
 ![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
 
