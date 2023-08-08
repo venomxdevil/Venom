@@ -7,7 +7,7 @@
   </h1>
   <br/></div>  
 
-<p align="center"><img src="./assets/images/header_.png">
+<p align="center"><img src=".assets/images/github-header-image.png">
 
  <img src="./assets/images/pink_border1.svg">
 <h3 align="center">
