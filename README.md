@@ -117,13 +117,7 @@ const U7P4L = {
  # 💻 Tech Stack:
 <h3 align="center">
 
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
-</p>
-
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="69" height="69" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" /></div>
 
 <table><tr><td valign="top" width="33%">
 
