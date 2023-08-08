@@ -1,12 +1,3 @@
-<div align="center">
-<h1>
-    𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> !
-  <a target="_blank">
-      <img src="https://github.com/DeepSociety/DeepSociety/blob/main/hi.gif?raw=true" width="40">
-    </a>
-  </h1>
-  <br/></div>  
-
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/assets/images/github-header-image.png">
 
  <img src="./assets/images/pink_border1.svg">
