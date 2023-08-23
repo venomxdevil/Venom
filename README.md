@@ -249,16 +249,14 @@ const U7P4L = {
 
   <img src="https://metrics.lecoq.io/U7P4L-IN?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 </p>  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
   
 ![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
 
 <p align="center"><img src="./assets/images/Programme.gif">
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 <!-- Contribution Snake -->
 <img src="./assets/images/github-contribution-grid-snake.svg">
