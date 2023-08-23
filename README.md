@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/assets/images/github-header-image%20(2).png">
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/master/assets/images/github-header-image%20(2).png">
 
  <img src="./assets/images/pink_border1.svg">
 <h3 align="center">
@@ -48,7 +48,7 @@ const U7P4L = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
-                        speaker: "English/Bangla",
+                        speaker: "English/Bangla/hindi",
                         mentor: "EducaTRANSforma"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on shell and python"
@@ -56,7 +56,6 @@ const U7P4L = {
 ```
 
 <l align="center"><img src="./assets/images/Linux.png">
-
 
 </h1>
 
