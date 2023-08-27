@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/master/assets/images/github-header-image%20(2).png">
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/master/assets/images/github-header-image.png">
 
  <img src="./assets/images/pink_border1.svg">
 <h3 align="center">
