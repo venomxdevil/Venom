@@ -246,7 +246,7 @@ const U7P4L = {
 
   ![U7P4L-IN](https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-  <img src="https://metrics.lecoq.io/U7P4L-IN?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+<img src="https://metrics.lecoq.io/U7P4L-IN?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 </p>  
   
 ![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
