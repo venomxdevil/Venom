@@ -3,6 +3,11 @@
  <img src="./assets/images/pink_border1.svg">
 <h3 align="center">
 
+<p align="center">
+  <br><br>
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLDS,+MY+NAME+IS+ANONYMOUS+U7P4L;I'M+19+YEAR'S+OLD;I'M+FROM+BANGLADESH;I'M+GRADUATED+SYSTEM+DEVELOPMENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <p align="center"> <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="128" width="128" alt="Archcraft"></a>   
