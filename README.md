@@ -245,7 +245,7 @@ const U7P4L = {
 <h3 align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
         </a>
     </div>
 
@@ -255,6 +255,11 @@ const U7P4L = {
 </p>  
   
 ![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
+
+<p align="center"><img src="https://hips.hearstapps.com/hmg-prod/images/line-break-1644443423.png" alt="Line Break" width="100%">
+</p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
 
