@@ -1,7 +1,8 @@
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/master/assets/banner/photo_2023-10-01_17-44-50.jpg">
 
- <img src="./assets/images/pink_border1.svg">
-<h3 align="center">
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
+</p> 
 
 <p align="center">
   <br><br>
@@ -273,4 +274,6 @@ const U7P4L = {
 
 <img src="./assets/images/Footer.jpg">
 
- <img src="./assets/images/pink_border2.svg">
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+</div>
