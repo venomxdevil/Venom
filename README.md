@@ -1,9 +1,5 @@
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/master/assets/banner/photo_2023-10-01_17-44-50.jpg">
 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
-</p> 
-
 <p align="center">
   <br><br>
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
@@ -119,7 +115,8 @@ const U7P4L = {
 <a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
 
   
- # 💻 Tech Stack:
+ <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+ 
 <h3 align="center">
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="69" height="69" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" /></div>
@@ -262,8 +259,6 @@ const U7P4L = {
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
-
-<p align="center"><img src="./assets/images/Programme.gif">
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -273,7 +268,3 @@ const U7P4L = {
 <!-- Footer -->
 
 <img src="./assets/images/Footer.jpg">
-
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
-</div>
