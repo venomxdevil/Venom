@@ -69,14 +69,6 @@ const U7P4L = {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme.andyruwruw.com/api/top-played">
-</p>
- 
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-
-
 ## 🏆 GitHub Trophies
 <h3 align="center">
 
@@ -113,13 +105,7 @@ const U7P4L = {
   
  <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
  
-<h3 align="center">
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="69" height="69" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" /></div>
-
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
