@@ -217,6 +217,10 @@ const U7P4L = {
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
         </a>
 
+<img style="width: 25rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
+
+<img style="width: 25rem; height: auto; display: block;" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
+
 
 ![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
 
