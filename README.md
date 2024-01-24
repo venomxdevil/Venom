@@ -215,21 +215,20 @@ const U7P4L = {
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
-        </a>
-
-<img style="width: 25rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
-
-<img style="width: 25rem; height: auto; display: block;" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
-
+  </a>
+  
+<h3 align="center"><img style="width: 25rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
+  
+<h3 align="center"><img style="width: 25rem; height: auto; display: block;" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
 
 ![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
 
 <p align="center"><img src="https://hips.hearstapps.com/hmg-prod/images/line-break-1644443423.png" alt="Line Break" width="100%">
 </p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
