@@ -240,7 +240,7 @@ const U7P4L = {
 <details>
 <summary>  Working on </summary>
 <br>
-<h1 align="center"><b>Pinned Repositories ♨️</b></h1>
+<h3 align="center"><b>Pinned Repositories ♨️</b></h3>
 <br>
 
 <a href="https://github.com/U7P4L-IN/HACKING-LAB">
