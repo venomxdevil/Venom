@@ -237,6 +237,36 @@ const U7P4L = {
 <!-- Contribution Snake -->
 <img src="./assets/images/github-contribution-grid-snake.svg">
 
+<details>
+<summary>  Working on </summary>
+<br>
+<h1 align="center"><b>Pinned Repositories ♨️</b></h1>
+<br>
+
+<a href="https://github.com/U7P4L-IN/HACKING-LAB">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=U7P4L-IN&repo=HACKING-LAB&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+
+<a href="https://github.com/U7P4L-IN/WIFI-HACKING">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=U7P4L-IN&repo=WIFI-HACKING&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/U7P4L-IN/TERMUX-SETUP">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=U7P4L-IN&repo=TERMUX-SETUP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<a href="https://github.com/U7P4L-IN/FB-BRUTE">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=U7P4L-IN&repo=FB-BRUTE&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+</p>
+
 <!-- Footer -->
 
 <img src="./assets/images/Footer.jpg">
