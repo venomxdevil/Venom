@@ -1,89 +1,62 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/master/assets/banner/photo_2023-10-01_17-44-50.jpg">
-
-<p align="center">
-  <br><br>
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLDS,+MY+NAME+IS+U7P4L+1N;I'M+19+YEAR'S+OLD;I'M+FROM+BANGLADESH;I'M+GRADUATED+SYSTEM+DEVELOPMENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
-
-<p align="center"> <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="128" width="128" alt="Archcraft"></a>   
-  
-
-<p align="center"><img src="https://img.shields.io/badge/I AM %20BANGLADESHI - PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-  
-</h3>
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-<h3 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+ANONYMOUS+U7P4L+1N;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND;THANK+YOU+EVERYONE+LvuAll)](https://git.io/typing-svg)
-</p>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-  
-<p align="center" width="150">
-  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
-</p>  
-
-<p align="center">
-<a href="https://U7P4L-IN.github.io/info/" target="_blank">
-   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
-</a>
-
-<p align="center">
-
- <img src="https://visitor-badge.feriirawann.repl.co?username=U7P4L-IN&repo=U7P4L-IN&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
- <a href="https://github.com/U7P4L-IN"><img src="https://img.shields.io/github/followers/U7P4L-IN?label=followers&style=social"/></a>
-<img src="https://img.shields.io/github/stars/U7P4L-IN?label=Stars&style=social" alt="GitHub Badge"> 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;" />
+</h1>
+ 
+<p align="center"><a href="https://github.com/U7P4L-IN"><img src="https://img.shields.io/github/followers/U7P4L-IN?label=followers&style=social"/></a><img src="https://img.shields.io/github/stars/U7P4L-IN?label=Stars&style=social" alt="GitHub Badge"> 
 
 <p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<h3 align="center"><b><i>MY INFORMATION <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i></b></h3>
 
-```javascript
-const U7P4L = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "English/Bangla/hindi",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on shell and python"
+```go
+package main
+
+import "fmt"
+
+type Person struct {
+  name string
+  username string
+  age int
+  hobbies []string
+  job string
+}
+
+func main() {
+  var me = new(Person)
+  
+  me.name     = "U7P4L 1N"
+  me.username = "U7P4L-IN"
+  me.age      = "20"
+  me.job      = "AI developer | Web developer"
+  me.hobbies  = []string{"code", "anime", "music"," guiterist"," gaming"}
+  
+  fmt.Println(me)
 }
 ```
-
-<l align="center"><img src="./assets/images/Linux.png">
-
 </h1>
 
-## 🏆 GitHub Trophies
+<h5 align="center"><b>🏆 GitHub Trophies</b></h5>
+
 <h3 align="center">
 
 ![U7P4L-IN](https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 &nbsp;<p align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </p>
 
- <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </i></h2>
-<h3 align="center">
- 
-<a href="https://t.me/ANONYMOUS_CYBER07"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=utpalxr@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://youtube.com/UtpalMallickOngkon"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://twitter.com/UtpalOngkon"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/umo_xr"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<h2 align="center"><i> Connect With Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </i></h2>
 
-<h2>📊I Spent My Time On <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<h3 align="center">
+<a href="https://t.me/ANONYMOUS_CYBER07"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=utpalxr@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://youtube.com/UtpalMallickOngkon"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+
+<a href="https://twitter.com/UtpalOngkon"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/umo_xr"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://U7P4L-IN.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+</a>
+
+<h2 align="center">I Spent My Time On <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 
 <h3 align="center">
   
@@ -91,56 +64,7 @@ const U7P4L = {
 
 <a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
 
-  
- <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
- 
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<p align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-</p>
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
+<h2 align="center"><i> Skills & DevTools Stack <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </i></h2>
 <h3 align="center">
  
 <p style="display: inline-block;" align="center">
@@ -210,12 +134,11 @@ const U7P4L = {
     
 <p align="center"><img src="./assets/images/keybord.gif" alt="Bt">
 
-<h2> 📊 GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-<h3 align="center">
+<h2 align="center">GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
-  </a>
+<h3 align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+
+<h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400"></a>
   
 <h3 align="center"><img style="width: 25rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
   
@@ -235,7 +158,7 @@ const U7P4L = {
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Contribution Snake -->
-<img src="./assets/images/github-contribution-grid-snake.svg">
+<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
 
 <details>
 <summary>  Working on </summary>
