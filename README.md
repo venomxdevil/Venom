@@ -43,6 +43,11 @@ func main() {
 
 ![U7P4L-IN](https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!-- HacktoberFest Badges -->
+
+[![An image of @U7P4L-IN's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@U7P4L-IN)
+
+
 &nbsp;<p align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </p>
