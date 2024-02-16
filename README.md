@@ -68,7 +68,7 @@ func main() {
 </a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"></br>
 
 
-<h2 align="center">I Spent My Time On > </h2>
+<h2 align="center">Spent My Time > </h2>
 
 <h3 align="center">
   
