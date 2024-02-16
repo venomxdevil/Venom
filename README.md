@@ -1,7 +1,6 @@
 <p align="center"><img src="/assets/Logo/logo1.png">
 
-<p align="center">
-<img width=100% title="U7P4L 1N" alt="U7P4L 1N" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=U7P4L 1N -🔰-&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/></P>
+<p align="center"><img width=100% title="U7P4L 1N" alt="U7P4L 1N" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=U7P4L 1N -🔰-&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/></P>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;" />
 </h1>
