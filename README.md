@@ -1,5 +1,8 @@
 <p align="center"><img src="/assets/Logo/logo1.png">
 
+<p align="center">
+<img width=100% title="U7P4L 1N" alt="U7P4L 1N" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=U7P4L 1N -🔰-&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/></P>
+
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;" />
 </h1>
  
@@ -8,6 +11,11 @@
 <p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
+
+
+<p align="center">
+  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Revarse%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 <h3 align="center"><b><i>MY INFORMATION <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i></b></h3>
 
@@ -38,7 +46,7 @@ func main() {
 ```
 </h1>
 
-<h5 align="center"><b>🏆 GitHub Trophies</b></h5>
+<h3 align="center"><b>🏆 GitHub Trophies</b></h3>
 
 <h3 align="center">
 
@@ -53,16 +61,16 @@ func main() {
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </p>
 
+
 <h2 align="center"><i> Connect With Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </i></h2>
 
 <h3 align="center">
 <a href="https://t.me/ANONYMOUS_CYBER07"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=utpalxr@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://youtube.com/UtpalMallickOngkon"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-
 <a href="https://twitter.com/UtpalOngkon"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/th3_____stranger"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://U7P4L-IN.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
-</a>
+</a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"><br>
 
-<h2 align="center">I Spent My Time On <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<h2 align="center">I Spent My Time On > </h2>
 
 <h3 align="center">
   
@@ -136,26 +144,25 @@ func main() {
   </kbd>
 </p>
 
-<p align="center"><img src="assets/images/ezgif.com-video-to-gif.gif" alt="Bt">
-    
-<p align="center"><img src="./assets/images/keybord.gif" alt="Bt">
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <h2 align="center">GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <h3 align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
 
-<h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400"></a>
-  
-<h3 align="center"><img style="width: 25rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
-  
-<h3 align="center"><img style="width: 25rem; height: auto; display: block;" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
-
-![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
-
-<p align="center"><img src="https://hips.hearstapps.com/hmg-prod/images/line-break-1644443423.png" alt="Line Break" width="100%">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="100%"/>
 </p>
+
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=react&combine_all_yearly_contributions=true" width="100%"/>
+</p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false" width="100%"/>
+</p>
+
+
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default" width="100%"/>
+</p>
+
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
@@ -195,6 +202,7 @@ func main() {
 <br>
 <br>
 </p>
+</details>
 
 <!-- Footer -->
 
