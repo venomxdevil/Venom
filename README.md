@@ -158,7 +158,7 @@ func main() {
 </p>
 
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default" width="100%"/>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=dark" width="100%"/>
 </p>
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
