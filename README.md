@@ -1,19 +1,11 @@
-<p align="center"><img src="/assets/Logo/logo1.png"></p>
+<p align="center"><img src="/assets/Logo/logo1.png"></p><br>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;" />
 </p><br>
 
- <p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" /><br>
+<p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
 
-<p align='center'><a href="https://github.com/U7P4L-IN?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/U7P4L-IN?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a><a href="https://github.com/U7P4L-IN"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/U7P4L-IN?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a><br>
-
-<a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
-
-
-<p align="center">
-  <a href="https://github.com/U7P4L-IN"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Revarse%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+<p align='center'><a href="https://github.com/U7P4L-IN?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/U7P4L-IN?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a><a href="https://github.com/U7P4L-IN"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/U7P4L-IN?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 
 <h3 align="center"><b><i>MY INFORMATION <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i></b></h3>
 
@@ -42,13 +34,20 @@ func main() {
   fmt.Println(me)
 }
 ```
+<!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
+<!--- <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN"> -->
+
+ <p align="center">
+  <a href="https://github.com/U7P4L-IN"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Revarse%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
 </br>
 <h2 align="center"><i> Connect With Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </i></h2>
 
 <p align="center">
 <a href="https://t.me/ANONYMOUS_CYBER07"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=utpalxr@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.gg/th3_u7p4l"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/c/UtpalCoding"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
 
-<p align="center"><a href="https://twitter.com/UtpalOngkon"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/th3_____stranger"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://U7P4L-IN.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+<p align="center"><a href="https://twitter.com/umo_xr"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/anon___stranger"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://U7P4L-IN.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"></br></p></br>
 
 <h2 align="center">Spent My Time > </h2><br>
