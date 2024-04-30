@@ -101,9 +101,6 @@ func main() {
   </a>
 </p>
 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Contribution Snake -->
