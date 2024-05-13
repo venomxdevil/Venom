@@ -108,7 +108,7 @@ func main() {
 
 ### 📊 GitHub Profile Stats
 <p align="center">
-<a href="https://github.com/U7P4L-IN"><img width="39%" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false" />
+<a href="https://github.com/U7P4L-IN"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
 <a href="https://github.com/U7P4L-IN">
