@@ -1,10 +1,18 @@
 <img width=100% title="ANONYMOUS U7P4L" alt="ANONYMOUS U7P4L" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;" />
-</p><br>
-<p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
-
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=U7P4L-IN&data=followers,repositories,stars,commits&theme=viridescent)
+<table border="0">
+ <tr>
+    <td>
+      <br>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;"/>
+     <p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
+      <img width="500" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=U7P4L-IN&data=followers,repositories,stars,commits&theme=viridescent"/>
+    <td>
+      <img width="400" align="center" alt="gif" src="./assets/images/demon-sleyar.gif">
+   </td>  
+ </tr>  
+</table>
+<br>
 
 ----
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
@@ -60,13 +68,6 @@ func main() {
 
 <br>
 <p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a></p>
-
-----
-
-&nbsp;<p align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</p>
-<br>
 
 ----
 
