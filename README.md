@@ -5,14 +5,16 @@
     <td>
       <br>
      <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
-      <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=U7P4L-IN&data=followers,repositories,stars,commits&theme=viridescent"/>
+     <img src="https://img.shields.io/github/followers/U7P4L-IN?label=followers&style=social"/><img src="https://img.shields.io/github/stars/U7P4L-IN?label=Stars&style=social" alt="GitHub Badge">
+     <img width="280" align="center" src="https://opencollective.com/vuejs/contributors.svg?width=900"/>
     <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
+    <img width="250" align="center" src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Github%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN"/>
+    <img alt="gif" align="center" src="./assets/images/demon-sleyar.gif">
    </td>  
  </tr>  
 </table>
+
+<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=U7P4L-IN&data=followers,repositories,stars,commits&theme=viridescent"/>
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
 </b></h3>
