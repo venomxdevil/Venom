@@ -206,10 +206,10 @@ func main() {
     <img width="40%" src="https://holopin.me/amajaying3" />
   </a>
 </p>
-
+<p align="center"><img src="https://stardev.io/developers/U7P4L-IN/badge/languages/global.svg" width="100%"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile Stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
 
 
 <p align="center">
@@ -221,7 +221,7 @@ func main() {
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
-### 📊 GitHub Profile Stats
+### 📊 GitHub States
 <p align="center">
 <a href="https://github.com/U7P4L-IN"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false" />
  </a></p>
