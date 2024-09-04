@@ -33,8 +33,8 @@ type Person struct {
 func main() {
   var me = new(Person)
   
-  me.name     = "U7P4L 1N"
-  me.username = "U7P4L-IN"
+  me.name     = "Uenom"
+  me.username = "venomxdevil"
   me.age      = "20"
   me.job      = "AI developer | Web developer"
   me.hobbies  = []string{"code", "anime", "music"," guiterist"," gaming"}
